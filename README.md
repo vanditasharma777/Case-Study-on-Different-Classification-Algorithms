@@ -30,5 +30,6 @@ The MNIST dataset contains 60,000 training images and 10,000 testing images with
 #### Both datasets are trained on machine learning algorithms such as KNN, SVM, Naive Bayes Classifier, Decision Tree Classifier, Random Forest Classifier, and CNN. 
 #### The evaluation metrics such as accuracy, confusion matrix, and classification report are also observed for each algorithm.
 ### RESULTS
-<img src="https://user-images.githubusercontent.com/61530421/167579342-fda8f92d-ae5c-4d01-9ac1-88c481903433.png" width="550" height ="550">
-<img src="https://user-images.githubusercontent.com/61530421/167579429-451e6f08-d5ce-43c2-8b45-79da05adc302.png" width="550" height ="550">
+<!--<img src="" width="550" height ="550">
+<img src="" width="550" height ="550">
+-->
