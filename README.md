@@ -1,4 +1,4 @@
-## CASE_STUDY_ON_DIFFERENT_CLASSIFICATION_ALGORITHMS
+## CASE STUDY ON DIFFERENT MACHINE LEARNING CLASSIFICATION ALGORITHMS
 #### In this case study, I have trained different machine learning classification algorithms on two datasets.
 #### The datasets that I use here are MNIST Handwritten Digit Classification Dataset and CIFAR10 Object Classification dataset. 
 ### 1.  MNIST Handwritten Digit Classification Dataset
